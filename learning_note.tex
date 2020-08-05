@@ -6,11 +6,77 @@
 \usepackage{siunitx}
 \usepackage{bm}
 \usepackage{url}
+\usepackage{amsfonts}
+\newcommand{\field}[1]{\mathbb{#1}}
+\newcommand{\vect}[1]{\boldsymbol{#1}}
 \begin{document}
 \maketitle
 \section{Relativity in atomic and molecular physics}
 
 \subsection{Elementary ideas}
+nuclei $\longrightarrow$ point mass \hspace{3cm}
+a-th nucleus $\longrightarrow$ $Z_a e$
+
+The moving particles interact according to Coulomb's law:
+\begin{align*}
+    -&\frac{Z_e e^2}{4\pi \varepsilon_0 r^2} & \text{nucleus a -- electrons}\\[1em]
+    & \frac{e^2}{4\pi \varepsilon_0 r^2} & \text{electron -- electron}\\[1em]
+    & \frac{Z_a Z_b e^2}{4\pi \varepsilon_0 r^2} & \text{nuclei a--b repel each other}
+\end{align*}
+
+The electronic intrinsic angular momentum -- spin $\vect{s}$
+\begin{equation*}
+    \vect{s}=\frac{1}{2}\hbar\vect{\sigma} \qquad \vect{\sigma}=(\sigma_x, \sigma_y, \sigma_z)
+\end{equation*}
+Note: $\vect{s}^2$ and $s_z$ have eigenfunction. $\sigma -- spin label $
+
+N indistinguishable electrons system wavefunction $\Psi(q_1, q_2,\dotsc q_N,t)$
+
+Spin-Orbit Coupling $\longrightarrow \vect{j}=\vect{l}+\vect{s}$
+
+\subsection{The one-electron atom}
+\subsubsection{Classical Kepler orbits}
+\begin{equation*}
+    \frac{1}{r}=\frac{mk}{|\vect{l}|^2}\{1+\varepsilon\cos(\theta+\alpha)\} \qquad
+    k=\frac{Ze^2}{4\pi\varepsilon_0} \qquad \varepsilon=\sqrt{1+\frac{2E|\vect{L}|^2}{mk^2}}
+\end{equation*}
+
+\begin{itemize}
+    \item $-\frac{mk}{2|\vect{l}|^2}\leqslant E <0 \quad \Longrightarrow \quad 0\leqslant\varepsilon<1$
+    \begin{equation*}
+        \Longrightarrow \left\{
+        \begin{aligned}
+            r &= \frac{|\vect{l}|^2}{mk(1+\varepsilon)} &\text{closest approach}\\
+            r &= \frac{|\vect{l}|^2}{mk(1-\varepsilon)} &\text{maximum distance}
+        \end{aligned}\right.
+    \end{equation*}
+    When $\varepsilon = 0 \quad \Longrightarrow \quad r=\frac{l^2}{mk}\quad \Longrightarrow \quad E=-\frac{mk}{2|\vect{l}|^2}$.
+    \item $E=0\quad \Longrightarrow \quad \varepsilon=1 \quad \Longrightarrow \quad$ orbit is a parabola.
+    \item $E>0\quad \Longrightarrow \quad \varepsilon>1 \quad \Longrightarrow \quad$ orbit is hyperbola.
+\end{itemize}
+\begin{equation*}
+    r_{min}=\frac{|\vect{l}|^2}{mk(1+varepsilon)} \qquad v_{max}=\frac{|\vect{l}|}{mr_{min}}
+\end{equation*}
+
+\subsubsection{The Bohr atom}
+\begin{equation*}
+    E = \frac{1}{2} \left\langle V\right\rangle = -\left\langle T\right\rangle
+\end{equation*}
+Where $E$ is the energy of particle, $\left\langle T \right\rangle$
+is the orbital average of the kinetic energy and 
+$\left\langle V\right\rangle$ is the potential energy.
+
+The frequencies of the spectral lines could be fitted to Rydberg's 
+formula: 
+\begin{equation*}
+    \nu = R\left(\frac{1}{n^2}-\frac{1}{m^2}\right)
+\end{equation*}
+The transition energy between two states: $E_n = -\frac{R}{n^2}$
+
+\subsubsection{X-ray spectra and Moseley's Law}
+The square root of the frequency of each corresponding X-ray line 
+was approximately proportional to Z.
+
 
 
 

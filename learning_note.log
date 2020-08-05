@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.22)  5 AUG 2020 10:23
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.17)  5 AUG 2020 17:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/LaTeX/Quantum_Phisics_Learning/learning_note
-(d:/LaTeX/Quantum_Phisics_Learning/learning_note.tex
+**e:/LaTeX/quantum_phisics_learning/learning_note
+(e:/LaTeX/quantum_phisics_learning/learning_note.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-05-15> (c:/texlive/2020/texmf-dist/tex/latex/elegantpaper/elegantpaper.cls
+L3 programming layer <2020-06-03> (c:/texlive/2020/texmf-dist/tex/latex/elegantpaper/elegantpaper.cls
 Document Class: elegantpaper 2020/04/12 v0.09 ElegantLaTeX Paper class
 (c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
@@ -53,7 +53,7 @@ Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
  (c:/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ) (c:/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2020-06-04 v0.32 Utility functions of pdfTeX for LuaTeX (HO)
  (c:/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
@@ -163,7 +163,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks16
 ) (c:/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2017/10/31 v2.20.4
+Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks17
 \thm@bodyfont=\toks18
 \thm@headfont=\toks19
@@ -380,9 +380,9 @@ Package: abstract 2009/06/08 v1.2a configurable abstracts
 ) (c:/texlive/2020/texmf-dist/tex/generic/hologo/hologo.sty
 Package: hologo 2019/12/05 v1.14 A logo collection with bookmark support (HO)
 ) (c:/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2020/05/10 v3.4j Customizing captions (AR)
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
  (c:/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2020/05/10 v1.11 caption3 kernel (AR)
+Package: caption3 2020/05/30 v1.12 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 61.
 \captionmargin=\dimen183
 \captionmargin@=\dimen184
@@ -405,15 +405,15 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count288
 \enitdp@description=\count289
 ) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctex.sty (c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-05-15 L3 programming layer (loader) 
+Package: expl3 2020-06-03 L3 programming layer (loader) 
  (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
-File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
+File: l3backend-xdvipdfmx.def 2020-06-03 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count290
 \l__pdf_internal_box=\box96
 \g__pdf_backend_object_int=\count291
 \g__pdf_backend_annotation_int=\count292
 ))
-Package: ctex 2020/05/16 v2.5.2 Chinese adapter in LaTeX (CTEX)
+Package: ctex 2020/06/06 v2.5.3 Chinese adapter in LaTeX (CTEX)
  (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2020-05-15 L3 Experimental document command parser
  (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
@@ -424,9 +424,9 @@ Package: xparse 2020-05-15 L3 Experimental document command parser
 )) (c:/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
 ) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2020/05/16 v2.5.2 Document and package hooks (CTEX)
+Package: ctexhook 2020/06/06 v2.5.3 Document and package hooks (CTEX)
 ) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
-Package: ctexpatch 2020/05/16 v2.5.2 Patching commands (CTEX)
+Package: ctexpatch 2020/06/06 v2.5.3 Patching commands (CTEX)
 ) (c:/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
  (c:/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
@@ -441,11 +441,11 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \g__ctex_section_depth_int=\count298
 \g__ctex_font_size_int=\count299
  (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
-File: ctexopts.cfg 2020/05/16 v2.5.2 Option configuration file (CTEX)
+File: ctexopts.cfg 2020/06/06 v2.5.3 Option configuration file (CTEX)
 ) (c:/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-xetex.def
-File: ctex-engine-xetex.def 2020/05/16 v2.5.2 XeLaTeX adapter (CTEX)
+File: ctex-engine-xetex.def 2020/06/06 v2.5.3 XeLaTeX adapter (CTEX)
  (c:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2020/05/01 v3.8.3 Typesetting CJK scripts with XeLaTeX
+Package: xeCJK 2020/06/06 v3.8.4 Typesetting CJK scripts with XeLaTeX
  (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2020-05-15 L3 Experimental prototype document functions
 \l__xtemplate_tmp_dim=\dimen192
@@ -485,7 +485,7 @@ Package: xtemplate 2020-05-15 L3 Experimental prototype document functions
 \l__xeCJK_widow_penalty_int=\count307
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
-(xtemplate)             argument(s) on line 2302.
+(xtemplate)             argument(s) on line 2329.
 
 \l__xeCJK_fixed_punct_width_dim=\dimen258
 \l__xeCJK_mixed_punct_width_dim=\dimen259
@@ -532,7 +532,7 @@ Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
  (c:/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 ) (c:/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg))) (c:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
-File: xeCJK.cfg 2020/05/01 v3.8.3 Configuration file for xeCJK package
+File: xeCJK.cfg 2020/06/06 v3.8.4 Configuration file for xeCJK package
 ))
 \ccwd=\dimen280
 \l__ctex_ccglue_skip=\skip76
@@ -544,9 +544,9 @@ Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
  (c:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
 )) (c:/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-plain.def
-File: ctex-scheme-plain.def 2020/05/16 v2.5.2 Plain scheme for generic (CTEX)
+File: ctex-scheme-plain.def 2020/06/06 v2.5.3 Plain scheme for generic (CTEX)
 ) (c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
-File: ctex-fontset-windows.def 2020/05/16 v2.5.2 Windows fonts definition (CTEX)
+File: ctex-fontset-windows.def 2020/06/06 v2.5.3 Windows fonts definition (CTEX)
 
 Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
 (fontspec)             exist).
@@ -578,7 +578,7 @@ Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 
 )) (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
-File: ctex.cfg 2020/05/16 v2.5.2 Configuration file (CTEX)
+File: ctex.cfg 2020/06/06 v2.5.3 Configuration file (CTEX)
 ) (c:/texlive/2020/texmf-dist/tex/latex/newtx/newtxtext.sty
 Package: newtxtext 2020/03/02 v1.625
  `newtxtext' v1.625, 2020/03/02 Text macros taking advantage of TeX-Gyre Termes fonts (msharpe) (c:/texlive/2020/texmf-dist/tex/latex/fontaxes/fontaxes.sty
@@ -630,7 +630,7 @@ Package: appendix 2020/02/08 v1.2c extra appendix facilities
 \c@example=\count332
 \c@case=\count333
  (c:/texlive/2020/texmf-dist/tex/latex/gbt7714/gbt7714.sty
-Package: gbt7714 2020/03/14 v2.0.1 GB/T 7714-2015 BibTeX Style
+Package: gbt7714 2020/06/08 v2.0.2 GB/T 7714-2015 BibTeX Style
  (c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip77
@@ -663,7 +663,7 @@ File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
  (c:/texlive/2020/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
-Package: xeCJK-listings 2020/05/01 v3.8.3 xeCJK patch file for listings
+Package: xeCJK-listings 2020/06/06 v3.8.4 xeCJK patch file for listings
 \l__xeCJK_listings_max_char_int=\count343
 \l__xeCJK_listings_flag_int=\count344
 ) (c:/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
@@ -781,28 +781,28 @@ LaTeX Info: Redefining \bm on input line 209.
 ) (./learning_note.aux)
 \openout1 = `learning_note.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 \AtBeginShipoutBox=\box110
-Package hyperref Info: Link coloring ON on input line 9.
+Package hyperref Info: Link coloring ON on input line 12.
  (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -812,9 +812,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count366
 )
-LaTeX Info: Redefining \ref on input line 9.
-LaTeX Info: Redefining \pageref on input line 9.
-LaTeX Info: Redefining \nameref on input line 9.
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
  (./learning_note.out) (./learning_note.out)
 \@outlinefile=\write4
 \openout4 = `learning_note.out'.
@@ -858,7 +858,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 9.
+LaTeX Info: Redefining \selectfont on input line 12.
 \c@mv@tabular=\count367
 \c@mv@boldtabular=\count368
  (c:/texlive/2020/texmf-dist/tex/latex/footmisc/footmisc.sty
@@ -875,47 +875,60 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
 )
 \c@lstlisting=\count370
 
-Package chemgreek Info: Activating mapping `fontspec' on line 9.
+Package chemgreek Info: Activating mapping `fontspec' on line 12.
 
  (c:/texlive/2020/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (c:/texlive/2020/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
  (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 10.
+(Font)              scaled to size 17.28pt on input line 13.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 10.
+(Font)              scaled to size 17.28pt on input line 13.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 10.
+(Font)              scaled to size 12.0pt on input line 13.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 9.0pt on input line 10.
+(Font)              scaled to size 9.0pt on input line 13.
 
 
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 11.
+(Font)              scaled to size 14.4pt on input line 14.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 11.
+(Font)              scaled to size 14.4pt on input line 14.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 12.0pt on input line 13.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 17.
-[1
+(Font)              scaled to size 12.0pt on input line 16.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 7.0pt on input line 25.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 5.0pt on input line 25.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 38.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 45.
+(c:/texlive/2020/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 45.
+ [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 17.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
+ [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
  (./learning_note.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 17.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 17.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
 
 
 Package rerunfilecheck Warning: File `learning_note.out' has changed.
@@ -923,16 +936,16 @@ Package rerunfilecheck Warning: File `learning_note.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `learning_note.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  DC83CAF8C3E4D49C100F01A401404D72;408.
+(rerunfilecheck)             Before: 240C68365C3B375CDF9363F8BFA54946;902
+(rerunfilecheck)             After:  2F0502CD2930AF4DEA8BDCA2268557C4;1136.
  ) 
 Here is how much of TeX's memory you used:
- 24148 strings out of 479282
- 482399 string characters out of 5884016
- 941862 words of memory out of 5000000
- 41423 multiletter control sequences out of 15000+600000
- 566983 words of font info for 88 fonts, out of 8000000 for 9000
+ 24225 strings out of 479284
+ 484102 string characters out of 5884020
+ 948369 words of memory out of 5000000
+ 41494 multiletter control sequences out of 15000+600000
+ 575780 words of font info for 92 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,6n,126p,888b,746s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,10n,126p,888b,749s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on learning_note.pdf (1 page).
+Output written on learning_note.pdf (2 pages).
