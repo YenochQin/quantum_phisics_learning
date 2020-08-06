@@ -79,9 +79,63 @@ was approximately proportional to Z. Relativistic effects modify the
 Z-dependence as Z increases.
 
 \subsubsection{Transition to quantum mechanics}
+A particle wavefunction: $\psi(\vect{r},t)$ 
 
+Schr\"{o}dinger equation: 
+$i\hbar\frac{\partial \psi}{\partial t}\psi(\vect{r},t)=H\psi(\vect{r},t)$
 
+Hamiltonian: $\hat{H}(\vect{p}, \vect{r})=\frac{1}{2m}\vect{p}^2+V(\vect{r}),\quad \vect{p}\rightarrow -i\hbar\Delta,\quad \vect{r}\rightarrow \vect{r}$
 
+$V(\vect{r})\rightarrow$ potential energy of an electron at a distance $r=|\vect{r}|$
+\begin{equation*}
+    V(\vect{r})=-\frac{Ze^2}{4\pi \varepsilon r}
+\end{equation*}
+which could deduce the Hamiltonian
+\begin{equation*}
+    \hat{H}=-\frac{\hbar^2}{2m}\Delta^2 - \frac{Ze^2}{4\pi \varepsilon r}
+\end{equation*}
+and whoes energies are given by the formula
+\begin{equation*}
+    \varepsilon_{nl}=-\frac{mZ^2 e^4}{32\pi^2 \varepsilon^2_0 \hbar^2 n^2}
+\end{equation*}
 
+The orbital angular momentum vector $\vect{l}$, and $\vect{l}^2$ takes 
+the values $l(l+1)\hbar^2$, $l_z$ takes the $2l+1$ values $m\hbar$.
+Due to Rydberg's formula $R=mZ^2e^4/32\pi^2\varepsilon^2_0 \hbar^2$, 
+from the energy relation could deduce that $\left\langle T_n\right\rangle=-E_n$,
+and $T_n=mv^2/2$, get the relation
+\begin{equation*}
+    \frac{v_n}{c}=\frac{\alpha Z}{n}
+\end{equation*}
+where $\alpha=e^2/4\pi\varepsilon_0\hbar c$ is the dimensionless
+fine structure constant. 
+
+In spherical polar coordinates
+\begin{equation*}
+    \psi_{nlm}(\vect{r},t)=\text{const.}\frac{P_{nl}(r)}{r}Y_l^m(\theta,\phi)
+\end{equation*}
+
+\subsubsection{Sommerfeld's relativistic orbits and Dirac's wave equation}
+In the Kepler problem, the particle speed attains its maximum at closest
+approach to the centre of force
+\begin{equation*}
+    \frac{v_{max}}{c}=\frac{k}{c|\vect{l}|}(1+\varepsilon),\qquad \varepsilon>0
+\end{equation*}
+$v_{max}$ is inversely proportional to $|\vect{l}|$, so the largest 
+effects in states with the lowest angular momentum.
+
+A particle moving in some reference frame with velocity $\vect{u}$ has
+four-momentum $p^u$ 
+\begin{equation*}
+    p^0=\frac{E}{c}=mc\gamma(u), \quad p^i =mu^i \gamma(u),\quad i=1,2,3.
+\end{equation*}
+where $\gamma(u)=1/\sqrt{1-u^2/c^2}$ and $u^i$ are the Cartesian components 
+of $\vect{u}$.
+
+Dirac' relativistic wave equation for hydrogenic atoms:
+\begin{equation*}
+    i\hbar\frac{\partial \psi}{\partial t}=\hat{H}\psi,\qquad 
+    \hat{H}=c\vect{\alpha}\cdot\vect{p}+\beta mc^2-\frac{Ze^2}{4 \pi \varepsilon_0 r}
+\end{equation*}
 
 \end{document}
