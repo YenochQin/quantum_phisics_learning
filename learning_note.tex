@@ -137,5 +137,52 @@ Dirac' relativistic wave equation for hydrogenic atoms:
     i\hbar\frac{\partial \psi}{\partial t}=\hat{H}\psi,\qquad 
     \hat{H}=c\vect{\alpha}\cdot\vect{p}+\beta mc^2-\frac{Ze^2}{4 \pi \varepsilon_0 r}
 \end{equation*}
+The solution in spherical polar coordinates
+\begin{equation*}
+    \psi_{E\kappa m}(\vect{r})=\text{const.}\ \frac{1}{r}
+    \begin{pmatrix}
+        P_{E\kappa}(r)\chi_{\kappa m}(\theta,\varphi)\\
+        iQ_{E\kappa}(r)\chi_{-\kappa m}(\theta,\varphi)
+    \end{pmatrix}
+\end{equation*}
+$\kappa=\pm 1,\pm 2,\cdots$ is the angular number and,
+\begin{equation*}
+    \chi_{\pm\kappa m}(\theta, \varphi)=\sum_{\sigma}
+    (l,m-\sigma ,1/2,\sigma |l,1/2,j,m)Y^{m-\sigma}_l (\theta, \varphi)\phi_{\sigma}
+\end{equation*}
+where
+\begin{equation*}
+    \phi_{1/2}=\begin{pmatrix}1 \\0\end{pmatrix},\qquad
+    \phi_{-1/2}=\begin{pmatrix}0 \\1\end{pmatrix}
+\end{equation*}
+The two possible Coupling modes are definde by 
+\begin{equation*}
+    \kappa=\eta (j+1/2),\qquad l=j+\eta /2 ,\qquad \eta =\pm 1
+\end{equation*}
+The principal quantum number: $n=n_r+|\kappa|$
+
+\subsubsection{Dirac and Schr\"{o}dinger charge distributions}
+\begin{itemize}
+    \item Dirac \textit{radial denstity distributions} are more compact
+    than their nonrelativistic counterparts.$\rho_{n\kappa}<\rho_{nl}$,
+    $\rho_{n\kappa}$is the Dirac value, $\rho_{nl}$ is the Schr\"{o}dinger value.
+    \item Dirac electrons are more tightly bound than their Schr\"{o}dinger counterparts:$\varepsilon_{n\kappa}<\varepsilon_{nl}$
+    \item \textit{Spin-orbit splitting.}  $\varepsilon_{n,\kappa=l}<\varepsilon_{n,\kappa=-l-1}<\varepsilon_{nl}$
+    \item The Schr\"{o}dinger radial wavefunction in the nonrelativistic 
+    limit $\alpha\rightarrow 0,c\rightarrow \infty$, the Pauli formula
+    \begin{equation*}
+        Q_{n,\kappa}\approx \frac{1}{2c}\left(\frac{dP_{n,\kappa}}{dr}+\frac{\kappa P_{n,\kappa}}{r}\right)
+        \{1+O(\frac{1}{c^2})\}
+    \end{equation*}
+\end{itemize}
+
+\subsubsection{The Dirac hydrogenic spectrum at high Z}
+The properties of the Dirac hydrogenic states depart more and 
+more from those of the corresponding nonrelativistic model as Z
+increases.
+
+\subsection{Many-electron atoms}
+
+
 
 \end{document}

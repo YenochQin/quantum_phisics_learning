@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.17)  6 AUG 2020 21:14
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.6.17)  7 AUG 2020 21:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -922,23 +922,36 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 45.
  [1
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+] [2]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\xeCJK_text_composite_patch:' on input line 164.
+
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 166.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
  (./learning_note.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
-Package rerunfilecheck Info: File `learning_note.out' has not changed.
-(rerunfilecheck)             Checksum: 35256583E8A1CCA0EBE01693CC9EB302;1742.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 188.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+
+
+Package rerunfilecheck Warning: File `learning_note.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `learning_note.out':
+(rerunfilecheck)             Before: 23FD0CC9B636DF8CBFF069D8509EB782;2034
+(rerunfilecheck)             After:  43F84BDA5D9FB0422AF52867B2C50A59;2471.
  ) 
 Here is how much of TeX's memory you used:
- 24225 strings out of 479284
- 484102 string characters out of 5884020
+ 24227 strings out of 479284
+ 484136 string characters out of 5884020
  948369 words of memory out of 5000000
- 41494 multiletter control sequences out of 15000+600000
- 575780 words of font info for 92 fonts, out of 8000000 for 9000
+ 41495 multiletter control sequences out of 15000+600000
+ 578574 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 67i,10n,126p,888b,748s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 67i,10n,126p,888b,755s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on learning_note.pdf (2 pages).
+Output written on learning_note.pdf (3 pages).
